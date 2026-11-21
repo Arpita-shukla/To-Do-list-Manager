@@ -3,7 +3,7 @@
 A responsive, lightweight personal task management web application built using core frontend technologies (**HTML5, CSS3, and Vanilla JavaScript**). It helps users organize daily work, track task completion progress in real time, and persist data locally in the browser.
 
 ## Live Demo
-🔗 **[View Live Project](https://<your-username>.github.io/TaskFlow/)**  
+🔗 **https://arpita-shukla.github.io/To-Do-list-Manager/**  
 *(Note: Replace `<your-username>` with your GitHub username after enabling GitHub Pages)*
 
 ## Key Features
