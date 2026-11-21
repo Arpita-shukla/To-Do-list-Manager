@@ -4,7 +4,6 @@ A responsive, lightweight personal task management web application built using c
 
 ## Live Demo
 🔗 **https://arpita-shukla.github.io/To-Do-list-Manager/**  
-*(Note: Replace `<your-username>` with your GitHub username after enabling GitHub Pages)*
 
 ## Key Features
 - **Complete Task CRUD:** Add new tasks with title, description, and priority level; edit existing tasks inline; mark tasks as completed; or delete them with confirmation.
